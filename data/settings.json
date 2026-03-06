@@ -18,6 +18,7 @@
     },
     "templateSettings": {
         "animatedBackground": true,
+        "backgroundAnimationType": "particles",
         "animatedCursorEnabled": true,
         "defaultLanguageId": "en",
         "defaultThemeId": "dark",
